@@ -1,4 +1,4 @@
-import simple_calaulator.py  # Assuming your calculator code is in a file named calculator.py
+import calculator.py  # Assuming your calculator code is in a file named calculator.py
 
 def test_add():
     assert calculator.add(2, 3) == 5
