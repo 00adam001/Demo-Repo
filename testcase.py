@@ -14,3 +14,6 @@ def multiply():
     assert calculator.multiply(2, 3) == 6
     assert calculator.multiply(-1, 1) == -1
     assert calculator.multiply(0, 5) == 0
+
+    
+print ("All test case passed")
